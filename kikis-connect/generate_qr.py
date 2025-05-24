@@ -5,7 +5,7 @@ import segno
 
 # Generate QR with a Kiki-themed message
 
-url = "https://kikisconnect.vercel.app/"
+url = "https://kiki-user.vercel.app/"
 qr_kiki = segno.make_qr(url)
 
 
